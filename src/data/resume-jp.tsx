@@ -8,7 +8,7 @@ export const RESUME_DATA = {
   about:
     "プログラマー、デザイナー",
   summary:
-    "情熱的な開発者、問題解決者、そして終生学習者。技術を活用して実用的な解決策を創造することに専念しています。コーディング、イノベーション、チームワークに熱心であり、ソフトウェア開発の世界で新しい挑戦と機会を求めています。",
+    "情熱的な開発者、問題解決者、そして終生学習者。技術を活用して実用的な解決策を創造することに専念しています。コーディング、イノベーション、チームワークに熱心であり、ソフトウェア開発の世界で新しい挑戦と機会を求めています",
   avatarUrl: "https://avatars.githubusercontent.com/u/47369659",
   personalWebsiteUrl: "http://localhost:3000",
   contact: {
@@ -74,7 +74,7 @@ export const RESUME_DATA = {
       title: "フロントエンド開発者/デザイナー",
       start: "2018",
       end: "2020",
-      description: "フロントエンド開発とUX/UIデザインのスキルを磨きながら、キャンパス内の複数のAndroid/iOSプロジェクトに参加",
+      description: "大学内で複数のAndroid/iOSプロジェクトに参加しながら、フロントエンド開発とUX/UIデザインのスキルを磨いています",
     },
     {
       company: "Castilla Idiomas",
