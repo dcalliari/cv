@@ -109,7 +109,7 @@ export const RESUME_DATA = {
         "Elixir",
         "HTML/CSS",
       ],
-      description: "Aplicativo Android que exibe os produtos e gera um orçamento para produtos Salvabras.",
+      description: "Aplicativo Android que exibe os produtos e gera um orçamento para produtos Salvabras",
       link: {
         label: "github.com/AmadorZcv/salvapaixao",
         href: "https://github.com/AmadorZcv/salvapaixao",
