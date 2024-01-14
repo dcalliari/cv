@@ -9,7 +9,7 @@ export const RESUME_DATA = {
     "Programador, Designer",
   summary:
     "Desenvolvedor apaixonado, solucionador de problemas e constante aprendiz. Comprometido em usar tecnologia para criar soluções práticas. Entusiasmado por programação, inovação e trabalho em equipe. Buscando novos desafios e oportunidades no campo do desenvolvimento de software",
-  avatarUrl: "https://avatars.githubusercontent.com/u/47369659?s=400&u=e4864411dc4b50cb2592ac4aa57d932c59352fe3&v=4",
+  avatarUrl: "https://avatars.githubusercontent.com/u/47369659",
   personalWebsiteUrl: "http://localhost:3000",
   contact: {
     email: "dbcalliari@gmail.com",
