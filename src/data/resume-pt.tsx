@@ -8,9 +8,9 @@ export const RESUME_DATA = {
   about:
     "Programador, Designer",
   summary:
-    "Desenvolvedor apaixonado, solucionador de problemas e constante aprendiz. Comprometido em usar tecnologia para criar soluções práticas. Entusiasmado por programação, inovação e trabalho em equipe. Buscando novos desafios e oportunidades no campo do desenvolvimento de software",
+    "Desenvolvedor impetuoso, solucionador de problemas e constante aprendiz. Comprometido em usar tecnologia para criar soluções práticas. Entusiasmado por programação, inovação e trabalho em equipe. Buscando novos desafios e oportunidades no campo do desenvolvimento de software",
   avatarUrl: "https://avatars.githubusercontent.com/u/47369659",
-  personalWebsiteUrl: "http://localhost:3000",
+  personalWebsiteUrl: "https://booude.github.io",
   contact: {
     email: "dbcalliari@gmail.com",
     tel: "+55 91 9 8209-8271",
@@ -22,7 +22,7 @@ export const RESUME_DATA = {
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/daniel-bahia-8236b51b4/",
+        url: "https://www.linkedin.com/in/daniel-calliari/",
         icon: LinkedInIcon,
       },
     ],
@@ -103,7 +103,7 @@ export const RESUME_DATA = {
       techStack: [
         "Desenvolvedor Frontend Líder",
         "Android",
-        "TypeScript",
+        "JavaScript",
         "React Native",
         "Adobe Xd",
         "Elixir",

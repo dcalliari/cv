@@ -10,7 +10,7 @@ export const RESUME_DATA = {
   summary:
     "情熱的な開発者、問題解決者、そして終生学習者。技術を活用して実用的な解決策を創造することに専念しています。コーディング、イノベーション、チームワークに熱心であり、ソフトウェア開発の世界で新しい挑戦と機会を求めています",
   avatarUrl: "https://avatars.githubusercontent.com/u/47369659",
-  personalWebsiteUrl: "http://localhost:3000",
+  personalWebsiteUrl: "https://booude.github.io",
   contact: {
     email: "dbcalliari@gmail.com",
     tel: "+55 91 9 8209-8271",
@@ -22,7 +22,7 @@ export const RESUME_DATA = {
       },
       {
         name: "リンクトイン",
-        url: "https://www.linkedin.com/in/daniel-bahia-8236b51b4/",
+        url: "https://www.linkedin.com/in/daniel-calliari/",
         icon: LinkedInIcon,
       },
     ],
@@ -103,7 +103,7 @@ export const RESUME_DATA = {
       techStack: [
         "リードフロントエンド開発者",
         "Android",
-        "タイプスクリプト",
+        "ジャバスクリプト",
         "リアクトネイティブ",
         "アドビXD",
         "エリクサー",
