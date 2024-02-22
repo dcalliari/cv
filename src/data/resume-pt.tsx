@@ -31,7 +31,7 @@ export const RESUME_DATA = {
     {
       school: "Universidade da Amazônia",
       degree: "Bacharelado em Ciência da Computação",
-      start: "2023",
+      start: "2024",
       end: "Present",
     },
     {
@@ -82,7 +82,7 @@ export const RESUME_DATA = {
       badges: ["Híbrido"],
       title: "Professor de Inglês",
       start: "2021",
-      end: "2024",
+      end: "2023",
       description:
         "Ensinei e avaliei alunos dos níveis Básico, Intermediário e Avançado, além de monitorar atividades presenciais e remotas usando o Google Meet",
     },

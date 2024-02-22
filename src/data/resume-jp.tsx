@@ -31,7 +31,7 @@ export const RESUME_DATA = {
     {
       school: "アマゾン大学",
       degree: "コンピュータサイエンス学士号",
-      start: "2023",
+      start: "2024",
       end: "今",
     },
     {
@@ -82,7 +82,7 @@ export const RESUME_DATA = {
       badges: ["ハイブリッド"],
       title: "英語先生",
       start: "2021",
-      end: "2024",
+      end: "2023",
       description:
         "基本、中級、上級の生徒を教え、評価し、教室と遠隔での活動をGoogle Meetを使用して監視しました",
     },
