@@ -54,6 +54,7 @@ export const RESUME_DATA = {
       badges: ["インターンシップ"],
       title: "ウェブ開発者",
       start: "2024",
+      end: "今",
       description:
         "Next.jsを使ってウェブサイトを開発しています",
     },
