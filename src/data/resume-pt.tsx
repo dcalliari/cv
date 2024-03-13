@@ -49,6 +49,15 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Defensoria Pública do Estado",
+      link: "https://defensoria.pa.def.br/",
+      badges: ["Estágio"],
+      title: "Desenvolvedor Web",
+      start: "2024",
+      description:
+        "Desenvolvendo sites utilizando Next.js",
+    },
+    {
       company: "NTP Engenharia",
       link: "https://maps.app.goo.gl/5zzABdNKyqhyS3Rz7",
       badges: ["Remoto"],
