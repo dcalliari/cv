@@ -49,6 +49,15 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Public Defenders Office",
+      link: "https://defensoria.pa.def.br/",
+      badges: ["インターンシップ"],
+      title: "ウェブ開発者",
+      start: "2024",
+      description:
+        "Next.jsを使ってウェブサイトを開発しています",
+    },
+    {
       company: "NTP Engenharia",
       link: "https://maps.app.goo.gl/5zzABdNKyqhyS3Rz7",
       badges: ["リモート"],
