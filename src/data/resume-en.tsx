@@ -54,6 +54,7 @@ export const RESUME_DATA = {
       badges: ["Internship"],
       title: "Web Developer",
       start: "2024",
+      end: "Present",
       description:
         "Developing Websites using Next.js",
     },
