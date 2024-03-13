@@ -32,7 +32,7 @@ export const RESUME_DATA = {
       school: "Universidade da Amazônia",
       degree: "Bacharelado em Ciência da Computação",
       start: "2024",
-      end: "Present",
+      end: "Presente",
     },
     {
       school: "Universidade Federal Rural da Amazônia",
@@ -54,6 +54,7 @@ export const RESUME_DATA = {
       badges: ["Estágio"],
       title: "Desenvolvedor Web",
       start: "2024",
+      end: "Presente",
       description:
         "Desenvolvendo sites utilizando Next.js",
     },
