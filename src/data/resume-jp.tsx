@@ -49,7 +49,7 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Public Defenders Office",
+      company: "公的法律扶助事務所",
       link: "https://defensoria.pa.def.br/",
       badges: ["インターンシップ"],
       title: "ウェブ開発者",
