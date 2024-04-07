@@ -9,7 +9,7 @@ export const RESUME_DATA = {
     "Programmer, Designer",
   summary:
     "Passionate developer, problem solver, and lifelong learner. Dedicated to leveraging technology to create practical solutions. Enthusiastic about coding, innovation, and teamwork. Seeking new challenges and opportunities in the world of software development",
-  avatarUrl: "https://avatars.githubusercontent.com/u/47369659",
+  avatarUrl: "https://github.com/booude.png",
   personalWebsiteUrl: "https://booude.github.io",
   contact: {
     email: "dbcalliari@gmail.com",

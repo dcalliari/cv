@@ -9,7 +9,7 @@ export const RESUME_DATA = {
     "Programador, Designer",
   summary:
     "Desenvolvedor impetuoso, solucionador de problemas e constante aprendiz. Comprometido em usar tecnologia para criar soluções práticas. Entusiasmado por programação, inovação e trabalho em equipe. Buscando novos desafios e oportunidades no campo do desenvolvimento de software",
-  avatarUrl: "https://avatars.githubusercontent.com/u/47369659",
+  avatarUrl: "https://github.com/booude.png",
   personalWebsiteUrl: "https://booude.github.io",
   contact: {
     email: "dbcalliari@gmail.com",
