@@ -52,7 +52,7 @@ export const RESUME_DATA = {
       company: "Defensoria Pública do Estado",
       link: "https://defensoria.pa.def.br/",
       badges: ["Estágio"],
-      title: "Desenvolvedor Web",
+      title: "Desenvolvedor Web Frontend",
       start: "2024",
       end: "Presente",
       description:
@@ -109,23 +109,6 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "SalvaCompra",
-      techStack: [
-        "Desenvolvedor Frontend Líder",
-        "Android",
-        "JavaScript",
-        "React Native",
-        "Adobe Xd",
-        "Elixir",
-        "HTML/CSS",
-      ],
-      description: "Aplicativo Android que exibe os produtos e gera um orçamento para produtos Salvabras",
-      link: {
-        label: "github.com/AmadorZcv/salvapaixao",
-        href: "https://github.com/AmadorZcv/salvapaixao",
-      },
-    },
-    {
       title: "Wild Rift Elo",
       techStack: [
         "Projeto Paralelo",
@@ -143,22 +126,6 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Projeto Oshiro",
-      techStack: [
-        "Projeto Paralelo",
-        "Flutter",
-        "Dart",
-        "Adobe Xd",
-        "FlutterFire",
-        "Firebase",
-      ],
-      description: "Aplicativo Android para navegar e reproduzir arquivos de áudio de coleções de livros didáticos de idiomas, incluindo vários botões de controle para facilitar a interação do usuário",
-      link: {
-        label: "github.com/booude/oshiro_flutter_project",
-        href: "https://github.com/booude/oshiro_flutter_project",
-      },
-    },
-    {
       title: "Etc Bot",
       techStack: [
         "Projeto Paralelo",
@@ -172,6 +139,39 @@ export const RESUME_DATA = {
       link: {
         label: "github.com/booude/etcbot",
         href: "https://github.com/booude/etcbot",
+      },
+    },
+    {
+      title: "SalvaCompra",
+      techStack: [
+        "Desenvolvedor Frontend Líder",
+        "Android",
+        "JavaScript",
+        "React Native",
+        "Adobe Xd",
+        "Elixir",
+        "HTML/CSS",
+      ],
+      description: "Aplicativo Android que exibe os produtos e gera um orçamento para produtos Salvabras",
+      link: {
+        label: "github.com/AmadorZcv/salvapaixao",
+        href: "https://github.com/AmadorZcv/salvapaixao",
+      },
+    },
+    {
+      title: "Projeto Oshiro",
+      techStack: [
+        "Projeto Paralelo",
+        "Flutter",
+        "Dart",
+        "Adobe Xd",
+        "FlutterFire",
+        "Firebase",
+      ],
+      description: "Aplicativo Android para navegar e reproduzir arquivos de áudio de coleções de livros didáticos de idiomas, incluindo vários botões de controle para facilitar a interação do usuário",
+      link: {
+        label: "github.com/booude/oshiro_flutter_project",
+        href: "https://github.com/booude/oshiro_flutter_project",
       },
     },
     {

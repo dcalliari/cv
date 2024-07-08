@@ -52,7 +52,7 @@ export const RESUME_DATA = {
       company: "公的法律扶助事務所",
       link: "https://defensoria.pa.def.br/",
       badges: ["インターンシップ"],
-      title: "ウェブ開発者",
+      title: "ウェブフロントエンド開発者",
       start: "2024",
       end: "今",
       description:
@@ -109,23 +109,6 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "サルバコンプラ",
-      techStack: [
-        "リードフロントエンド開発者",
-        "Android",
-        "ジャバスクリプト",
-        "リアクトネイティブ",
-        "アドビXD",
-        "エリクサー",
-        "HTML/CSS",
-      ],
-      description: "Salvabrasの商品を表示し、見積もり価格を生成するAndroidアプリケーション",
-      link: {
-        label: "github.com/AmadorZcv/salvapaixao",
-        href: "https://github.com/AmadorZcv/salvapaixao",
-      },
-    },
-    {
       title: "ワイルドリフトランク",
       techStack: [
         "サイドプロジェクト",
@@ -143,22 +126,6 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "大城プロジェクト",
-      techStack: [
-        "サイドプロジェクト",
-        "フラッター",
-        "ダート",
-        "アドビXD",
-        "フラッターファイア",
-        "ファイアベース",
-      ],
-      description: "言語学習教材コレクションからオーディオファイルを閲覧し再生するためのAndroidアプリケーション。ユーザーインタラクションを容易にするために複数のコントロールボタンを備えています",
-      link: {
-        label: "github.com/booude/oshiro_flutter_project",
-        href: "https://github.com/booude/oshiro_flutter_project",
-      },
-    },
-    {
       title: "Etc ボット",
       techStack: [
         "サイドプロジェクト",
@@ -172,6 +139,39 @@ export const RESUME_DATA = {
       link: {
         label: "github.com/booude/etcbot",
         href: "https://github.com/booude/etcbot",
+      },
+    },
+    {
+      title: "サルバコンプラ",
+      techStack: [
+        "リードフロントエンド開発者",
+        "Android",
+        "ジャバスクリプト",
+        "リアクトネイティブ",
+        "アドビXD",
+        "エリクサー",
+        "HTML/CSS",
+      ],
+      description: "Salvabrasの商品を表示し、見積もり価格を生成するAndroidアプリケーション",
+      link: {
+        label: "github.com/AmadorZcv/salvapaixao",
+        href: "https://github.com/AmadorZcv/salvapaixao",
+      },
+    },
+    {
+      title: "大城プロジェクト",
+      techStack: [
+        "サイドプロジェクト",
+        "フラッター",
+        "ダート",
+        "アドビXD",
+        "フラッターファイア",
+        "ファイアベース",
+      ],
+      description: "言語学習教材コレクションからオーディオファイルを閲覧し再生するためのAndroidアプリケーション。ユーザーインタラクションを容易にするために複数のコントロールボタンを備えています",
+      link: {
+        label: "github.com/booude/oshiro_flutter_project",
+        href: "https://github.com/booude/oshiro_flutter_project",
       },
     },
     {

@@ -52,7 +52,7 @@ export const RESUME_DATA = {
       company: "Public Defender's Office",
       link: "https://defensoria.pa.def.br/",
       badges: ["Internship"],
-      title: "Web Developer",
+      title: "Frontend Web Developer",
       start: "2024",
       end: "Present",
       description:
@@ -84,7 +84,7 @@ export const RESUME_DATA = {
       title: "Frontend Developer/Designer",
       start: "2018",
       end: "2020",
-      description: "Participated in multiple Android/iOS projects inside campus while developing the skills of Frontend Development and UX/UI design",
+      description: "Took part in multiple Android/iOS projects inside campus while developing the skills of Frontend Development and UX/UI design",
     },
     {
       company: "Castilla Idiomas",
@@ -109,23 +109,6 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "SalvaCompra",
-      techStack: [
-        "Lead Frontend Developer",
-        "Android",
-        "JavaScript",
-        "React Native",
-        "Adobe Xd",
-        "Elixir",
-        "HTML/CSS",
-      ],
-      description: "Android application that displays the products and generates a price quotation for Salvabras",
-      link: {
-        label: "github.com/AmadorZcv/salvapaixao",
-        href: "https://github.com/AmadorZcv/salvapaixao",
-      },
-    },
-    {
       title: "Wild Rift Elo",
       techStack: [
         "Side Project",
@@ -143,22 +126,6 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Project Oshiro",
-      techStack: [
-        "Side Project",
-        "Flutter",
-        "Dart",
-        "Adobe Xd",
-        "FlutterFire",
-        "Firebase",
-      ],
-      description: "Android application for browsing and playing audio files from language learning textbook collections that includes several control buttons to facilitate user interaction",
-      link: {
-        label: "github.com/booude/oshiro_flutter_project",
-        href: "https://github.com/booude/oshiro_flutter_project",
-      },
-    },
-    {
       title: "Etc Bot",
       techStack: [
         "Side Project",
@@ -172,6 +139,39 @@ export const RESUME_DATA = {
       link: {
         label: "github.com/booude/etcbot",
         href: "https://github.com/booude/etcbot",
+      },
+    },
+    {
+      title: "SalvaCompra",
+      techStack: [
+        "Lead Frontend Developer",
+        "Android",
+        "JavaScript",
+        "React Native",
+        "Adobe Xd",
+        "Elixir",
+        "HTML/CSS",
+      ],
+      description: "Android application that displays the products and generates a price quotation for Salvabras",
+      link: {
+        label: "github.com/AmadorZcv/salvapaixao",
+        href: "https://github.com/AmadorZcv/salvapaixao",
+      },
+    },
+    {
+      title: "Project Oshiro",
+      techStack: [
+        "Side Project",
+        "Flutter",
+        "Dart",
+        "Adobe Xd",
+        "FlutterFire",
+        "Firebase",
+      ],
+      description: "Android application for browsing and playing audio files from language learning textbook collections that includes several control buttons to facilitate user interaction",
+      link: {
+        label: "github.com/booude/oshiro_flutter_project",
+        href: "https://github.com/booude/oshiro_flutter_project",
       },
     },
     {
