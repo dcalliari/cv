@@ -1,12 +1,12 @@
 import { GitHubIcon, LinkedInIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "カリアリ・ダニエル",
-  initials: "DC",
+  name: "バイア・ダニエル",
+  initials: "DB",
   location: "ブラジル、パラー州ベレン",
   locationLink: "https://www.google.com/maps/place/Belém",
   about:
-    "プログラマー、デザイナー",
+    "ウェブ開発者",
   summary:
     "情熱的な開発者、問題解決者、そして終生学習者。技術を活用して実用的な解決策を創造することに専念しています。コーディング、イノベーション、チームワークに熱心であり、ソフトウェア開発の世界で新しい挑戦と機会を求めています",
   avatarUrl: "https://github.com/booude.png",
@@ -38,13 +38,7 @@ export const RESUME_DATA = {
       school: "アマゾニア連邦農村大学",
       degree: "情報システム学士号、転校",
       start: "2018",
-      end: "2021",
-    },
-    {
-      school: "パラ連邦大学",
-      degree: "機械工学学士号、中断",
-      start: "2014",
-      end: "2018",
+      end: "2023",
     },
   ],
   work: [
@@ -56,13 +50,13 @@ export const RESUME_DATA = {
       start: "2024",
       end: "今",
       description:
-        "Next.jsを使ってウェブサイトを開発しています",
+        "Next.js、Tailwind CSS と TypeScript を使ってウェブサイトを開発しています",
     },
     {
       company: "NTP Engenharia",
       link: "https://maps.app.goo.gl/5zzABdNKyqhyS3Rz7",
       badges: ["リモート"],
-      title: "アプリ開発マネージャー",
+      title: "リードモバイル開発者",
       start: "2019",
       end: "2020",
       description:
@@ -72,7 +66,7 @@ export const RESUME_DATA = {
       company: "STIC",
       link: "https://stic.ufra.edu.br",
       badges: ["インターンシップ"],
-      title: "バックエンド開発者/インフラストラクチャアシスタント",
+      title: "フルスタックウェブ開発者",
       start: "2019",
       end: "2020",
       description: "CentOS 上でサーバーを作成および保守し、Ufra 用に HTML/CSS および JavaScript で Web サイトを開発し、教授に IT 支援を提供しました",
@@ -81,26 +75,17 @@ export const RESUME_DATA = {
       company: "LCA ー 応用コンピューティング研究室",
       link: "https://www.linkedin.com/company/lca-ufra/",
       badges: ["インターンシップ"],
-      title: "フロントエンド開発者/デザイナー",
+      title: "モバイル開発者/デザイナー",
       start: "2018",
       end: "2020",
       description: "大学内で複数のAndroid/iOSプロジェクトに参加しながら、フロントエンド開発とUX/UIデザインのスキルを磨いています",
     },
-    {
-      company: "Castilla Idiomas",
-      link: "https://castilla.com.br",
-      badges: ["ハイブリッド"],
-      title: "英語先生",
-      start: "2021",
-      end: "2023",
-      description:
-        "基本、中級、上級の生徒を教え、評価し、教室と遠隔での活動をGoogle Meetを使用して監視しました",
-    },
   ],
   skills: [
+    "ネクスト・ジェイエス",
     "パイソン",
-    "ジャバスクリプト",
     "タイプスクリプト",
+    "ジャバスクリプト",
     "フラッター",
     "ファイアベース",
     "リアクトネイティブ",
@@ -108,6 +93,23 @@ export const RESUME_DATA = {
     "ポストグレSQL",
   ],
   projects: [
+    {
+      title: "Calliari's Artigiano",
+      techStack: [
+        "サイドプロジェクト",
+        "ネクスト・ジェイエス",
+        "タイプスクリプト",
+        "シャドウシーエヌ/ユーアイ",
+        "テイルウィンドCSS",
+        "ファイアベース",
+        "HTML/CSS",
+      ],
+      description: "シンプルでエレガントなデザインと、Firebase 統合によるログインと登録を備えた、Next.js と Tailwind CSS のスキルを紹介するレストランの Web サイト",
+      link: {
+        label: "artigiano.vercel.app",
+        href: "https://artigiano.vercel.app/",
+      },
+    },
     {
       title: "ワイルドリフトランク",
       techStack: [

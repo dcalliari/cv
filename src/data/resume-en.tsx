@@ -1,12 +1,12 @@
 import { GitHubIcon, LinkedInIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Daniel Calliari",
-  initials: "DC",
+  name: "Daniel Bahia",
+  initials: "DB",
   location: "Belém, Pará, Brazil",
   locationLink: "https://www.google.com/maps/place/Belém",
   about:
-    "Programmer, Designer",
+    "Web Developer",
   summary:
     "Passionate developer, problem solver, and lifelong learner. Dedicated to leveraging technology to create practical solutions. Enthusiastic about coding, innovation, and teamwork. Seeking new challenges and opportunities in the world of software development",
   avatarUrl: "https://github.com/booude.png",
@@ -38,13 +38,7 @@ export const RESUME_DATA = {
       school: "Federal Rural University of Amazonia",
       degree: "Bachelor's Degree in Information Systems, transferred",
       start: "2018",
-      end: "2021",
-    },
-    {
-      school: "Federal University of Pará",
-      degree: "Bachelor's Degree in Mechanical Engineering, not concluded",
-      start: "2014",
-      end: "2018",
+      end: "2023",
     },
   ],
   work: [
@@ -56,13 +50,13 @@ export const RESUME_DATA = {
       start: "2024",
       end: "Present",
       description:
-        "Developing Websites using Next.js",
+        "Developing Websites using Next.js, Tailwind CSS and TypeScript",
     },
     {
       company: "NTP Engenharia",
       link: "https://maps.app.goo.gl/5zzABdNKyqhyS3Rz7",
       badges: ["Remote"],
-      title: "App Development Manager",
+      title: "Lead Mobile Developer",
       start: "2019",
       end: "2020",
       description:
@@ -72,7 +66,7 @@ export const RESUME_DATA = {
       company: "STIC",
       link: "https://stic.ufra.edu.br",
       badges: ["Internship"],
-      title: "Backend Developer/Infrastructure Assistant",
+      title: "Full Stack Web Developer",
       start: "2019",
       end: "2020",
       description: "Created and maintained servers on CentOS, developed websites in HTML/CSS and JavaScript for Ufra and provided IT assistance to professors",
@@ -81,26 +75,17 @@ export const RESUME_DATA = {
       company: "LCA - Applied Computing Lab",
       link: "https://www.linkedin.com/company/lca-ufra/",
       badges: ["Internship"],
-      title: "Frontend Developer/Designer",
+      title: "Mobile Developer/Designer",
       start: "2018",
       end: "2020",
       description: "Took part in multiple Android/iOS projects inside campus while developing the skills of Frontend Development and UX/UI design",
     },
-    {
-      company: "Castilla Idiomas",
-      link: "https://castilla.com.br",
-      badges: ["Hybrid"],
-      title: "English Teacher",
-      start: "2021",
-      end: "2023",
-      description:
-        "Teached and graded Basic, Intermediate and Advanced students and monitored activities both in class and remote using Google Meet",
-    },
   ],
   skills: [
+    "Next.js",
     "Python",
-    "JavaScript",
     "TypeScript",
+    "JavaScript",
     "Flutter",
     "Firebase",
     "React Native",
@@ -108,6 +93,23 @@ export const RESUME_DATA = {
     "PostgreSQL",
   ],
   projects: [
+    {
+      title: "Calliari's Artigiano",
+      techStack: [
+        "Side Project",
+        "Next.js",
+        "TypeScript",
+        "Shadcn/UI",
+        "Tailwind CSS",
+        "Firebase",
+        "HTML/CSS",
+      ],
+      description: "Restaurant website to showcase Next.js and Tailwind CSS skills, with a simple and elegant design, and a login and register with Firebase integration",
+      link: {
+        label: "artigiano.vercel.app",
+        href: "https://artigiano.vercel.app/",
+      },
+    },
     {
       title: "Wild Rift Elo",
       techStack: [

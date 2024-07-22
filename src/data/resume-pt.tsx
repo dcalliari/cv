@@ -1,12 +1,12 @@
 import { GitHubIcon, LinkedInIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Daniel Calliari",
-  initials: "DC",
+  name: "Daniel Bahia",
+  initials: "DB",
   location: "Belém, Pará, Brasil",
   locationLink: "https://www.google.com/maps/place/Belém",
   about:
-    "Programador, Designer",
+    "Desenvolvedor Web",
   summary:
     "Desenvolvedor impetuoso, solucionador de problemas e constante aprendiz. Comprometido em usar tecnologia para criar soluções práticas. Entusiasmado por programação, inovação e trabalho em equipe. Buscando novos desafios e oportunidades no campo do desenvolvimento de software",
   avatarUrl: "https://github.com/booude.png",
@@ -38,13 +38,7 @@ export const RESUME_DATA = {
       school: "Universidade Federal Rural da Amazônia",
       degree: "Bacharelado em Sistemas de Informação, transferido",
       start: "2018",
-      end: "2021",
-    },
-    {
-      school: "Universidade Federal do Pará",
-      degree: "Bacharelado em Engenharia Mecânica, interrompido",
-      start: "2014",
-      end: "2018",
+      end: "2023",
     },
   ],
   work: [
@@ -56,13 +50,13 @@ export const RESUME_DATA = {
       start: "2024",
       end: "Presente",
       description:
-        "Desenvolvendo sites utilizando Next.js",
+        "Desenvolvendo sites utilizando Next.js, Tailwind CSS e TypeScript",
     },
     {
       company: "NTP Engenharia",
       link: "https://maps.app.goo.gl/5zzABdNKyqhyS3Rz7",
       badges: ["Remoto"],
-      title: "Gerente de Desenvolvimento de Aplicações",
+      title: "Desenvolvedor Mobile Líder",
       start: "2019",
       end: "2020",
       description:
@@ -72,7 +66,7 @@ export const RESUME_DATA = {
       company: "STIC",
       link: "https://stic.ufra.edu.br",
       badges: ["Estágio"],
-      title: "Desenvolvedor Backend/Assistente de Infraestrutura",
+      title: "Desenvolvedor Web Full Stack",
       start: "2019",
       end: "2020",
       description: "Criei e mantive servidores no CentOS, desenvolvi sites em HTML/CSS e JavaScript para a Ufra e prestei assistência de TI a professores",
@@ -81,26 +75,17 @@ export const RESUME_DATA = {
       company: "LCA - Laboratório de Computação Aplicada",
       link: "https://www.linkedin.com/company/lca-ufra/",
       badges: ["Estágio"],
-      title: "Desenvolvedor Frontend/Designer",
+      title: "Desenvolvedor Mobile/Designer",
       start: "2018",
       end: "2020",
       description: "Participei de diversos projetos Android/iOS no campus, desenvolvendo habilidades em Desenvolvimento Frontend e Design UX/UI",
     },
-    {
-      company: "Castilla Idiomas",
-      link: "https://castilla.com.br",
-      badges: ["Híbrido"],
-      title: "Professor de Inglês",
-      start: "2021",
-      end: "2023",
-      description:
-        "Ensinei e avaliei alunos dos níveis Básico, Intermediário e Avançado, além de monitorar atividades presenciais e remotas usando o Google Meet",
-    },
   ],
   skills: [
+    "Next.js",
     "Python",
-    "JavaScript",
     "TypeScript",
+    "JavaScript",
     "Flutter",
     "Firebase",
     "React Native",
@@ -108,6 +93,23 @@ export const RESUME_DATA = {
     "PostgreSQL",
   ],
   projects: [
+    {
+      title: "Calliari's Artigiano",
+      techStack: [
+        "Side Project",
+        "Next.js",
+        "TypeScript",
+        "Shadcn/UI",
+        "Tailwind CSS",
+        "Firebase",
+        "HTML/CSS",
+      ],
+      description: "Site de restaurante para mostrar habilidades de Next.js e Tailwind CSS, com um design simples e elegante, e login e registro com integração Firebase",
+      link: {
+        label: "artigiano.vercel.app",
+        href: "https://artigiano.vercel.app/",
+      },
+    },
     {
       title: "Wild Rift Elo",
       techStack: [
