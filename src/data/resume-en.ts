@@ -60,7 +60,7 @@ export const enResume: Resume = {
 			badges: ["Internship"],
 			title: "Frontend Web Developer",
 			start: "2024",
-			end: "Present",
+			end: "2024",
 			description:
 				"Developing Websites using Next.js, Tailwind CSS and TypeScript",
 		},

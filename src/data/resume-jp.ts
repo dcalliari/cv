@@ -60,7 +60,7 @@ export const jpResume: Resume = {
 			badges: ["インターンシップ"],
 			title: "ウェブフロントエンド開発者",
 			start: "2024",
-			end: "今",
+			end: "2024",
 			description:
 				"Next.js、Tailwind CSS と TypeScript を使ってウェブサイトを開発しています",
 		},

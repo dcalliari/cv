@@ -60,7 +60,7 @@ export const ptResume: Resume = {
 			badges: ["Estágio"],
 			title: "Desenvolvedor Web Frontend",
 			start: "2024",
-			end: "Presente",
+			end: "2024",
 			description:
 				"Desenvolvendo sites utilizando Next.js, Tailwind CSS e TypeScript",
 		},
