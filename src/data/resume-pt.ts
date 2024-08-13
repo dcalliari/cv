@@ -9,8 +9,8 @@ export const ptResume: Resume = {
 	about: "Desenvolvedor Web",
 	summary:
 		"Desenvolvedor impetuoso, solucionador de problemas e constante aprendiz. Comprometido em usar tecnologia para criar soluções práticas. Entusiasmado por programação, inovação e trabalho em equipe. Buscando novos desafios e oportunidades no campo do desenvolvimento de software",
-	avatarUrl: "https://github.com/booude.png",
-	personalWebsiteUrl: "https://booude.github.io",
+	avatarUrl: "https://github.com/dcalliari.png",
+	personalWebsiteUrl: "https://dcalliari.github.io",
 	topics: {
 		about: "Sobre",
 		workExperience: "Experiência Profissional",
@@ -29,7 +29,7 @@ export const ptResume: Resume = {
 		social: [
 			{
 				name: "GitHub",
-				url: "https://github.com/booude",
+				url: "https://github.com/dcalliari",
 				icon: GitHubIcon,
 			},
 			{
@@ -139,8 +139,8 @@ export const ptResume: Resume = {
 			description:
 				"Desenvolvi uma API e um chatbot para transmissões na Twitch do jogo League of Legends: Wild Rift, coletando dados das contas do jogo",
 			link: {
-				label: "github.com/booude/WildRiftElo",
-				href: "https://github.com/booude/WildRiftElo",
+				label: "github.com/dcalliari/WildRiftElo",
+				href: "https://github.com/dcalliari/WildRiftElo",
 			},
 		},
 		{
@@ -156,8 +156,8 @@ export const ptResume: Resume = {
 			description:
 				"Desenvolvi um Bot da Twitch para interagir com a audiência por meio de diversas ferramentas criativas. Integrado com várias APIs, incluindo Twitch, Spotify e Wild Rift Elo",
 			link: {
-				label: "github.com/booude/etcbot",
-				href: "https://github.com/booude/etcbot",
+				label: "github.com/dcalliari/etcbot",
+				href: "https://github.com/dcalliari/etcbot",
 			},
 		},
 		{
@@ -191,8 +191,8 @@ export const ptResume: Resume = {
 			description:
 				"Aplicativo Android para navegar e reproduzir arquivos de áudio de coleções de livros didáticos de idiomas, incluindo vários botões de controle para facilitar a interação do usuário",
 			link: {
-				label: "github.com/booude/oshiro_flutter_project",
-				href: "https://github.com/booude/oshiro_flutter_project",
+				label: "github.com/dcalliari/oshiro_flutter_project",
+				href: "https://github.com/dcalliari/oshiro_flutter_project",
 			},
 		},
 		{
@@ -201,8 +201,8 @@ export const ptResume: Resume = {
 			description:
 				"Interface de câmera simples para Raspberry Pi, facilitando a gestão e configuração",
 			link: {
-				label: "github.com/booude/pipy-cam-mngr",
-				href: "https://github.com/booude/pipy-cam-mngr",
+				label: "github.com/dcalliari/pipy-cam-mngr",
+				href: "https://github.com/dcalliari/pipy-cam-mngr",
 			},
 		},
 	],

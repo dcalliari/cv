@@ -9,8 +9,8 @@ export const jpResume: Resume = {
 	about: "ウェブ開発者",
 	summary:
 		"情熱的な開発者、問題解決者、そして終生学習者。技術を活用して実用的な解決策を創造することに専念しています。コーディング、イノベーション、チームワークに熱心であり、ソフトウェア開発の世界で新しい挑戦と機会を求めています",
-	avatarUrl: "https://github.com/booude.png",
-	personalWebsiteUrl: "https://booude.github.io",
+	avatarUrl: "https://github.com/dcalliari.png",
+	personalWebsiteUrl: "https://dcalliari.github.io",
 	topics: {
 		about: "概 要",
 		workExperience: "職 歴",
@@ -29,7 +29,7 @@ export const jpResume: Resume = {
 		social: [
 			{
 				name: "ギットハブ",
-				url: "https://github.com/booude",
+				url: "https://github.com/dcalliari",
 				icon: GitHubIcon,
 			},
 			{
@@ -139,8 +139,8 @@ export const jpResume: Resume = {
 			description:
 				"リーグ・オブ・レジェンド: ワイルドリフトのTwitchストリームようにAPIとチャットボットを開発し、ゲームアカウントからデータを収集しています",
 			link: {
-				label: "github.com/booude/WildRiftElo",
-				href: "https://github.com/booude/WildRiftElo",
+				label: "github.com/dcalliari/WildRiftElo",
+				href: "https://github.com/dcalliari/WildRiftElo",
 			},
 		},
 		{
@@ -156,8 +156,8 @@ export const jpResume: Resume = {
 			description:
 				"多くのクリエイティブツールを使用して視聴者と対話するTwitchボットを開発しました。Twitch、Spotify、およびワイルドリフトランクなど、複数のAPIと統合されています",
 			link: {
-				label: "github.com/booude/etcbot",
-				href: "https://github.com/booude/etcbot",
+				label: "github.com/dcalliari/etcbot",
+				href: "https://github.com/dcalliari/etcbot",
 			},
 		},
 		{
@@ -191,8 +191,8 @@ export const jpResume: Resume = {
 			description:
 				"言語学習教材コレクションからオーディオファイルを閲覧し再生するためのAndroidアプリケーション。ユーザーインタラクションを容易にするために複数のコントロールボタンを備えています",
 			link: {
-				label: "github.com/booude/oshiro_flutter_project",
-				href: "https://github.com/booude/oshiro_flutter_project",
+				label: "github.com/dcalliari/oshiro_flutter_project",
+				href: "https://github.com/dcalliari/oshiro_flutter_project",
 			},
 		},
 		{
@@ -200,8 +200,8 @@ export const jpResume: Resume = {
 			techStack: ["大学研究室のプロジェクト", "パイソン"],
 			description: "簡単な構成管理のためのRaspberry Piカメラインターフェース",
 			link: {
-				label: "github.com/booude/pipy-cam-mngr",
-				href: "https://github.com/booude/pipy-cam-mngr",
+				label: "github.com/dcalliari/pipy-cam-mngr",
+				href: "https://github.com/dcalliari/pipy-cam-mngr",
 			},
 		},
 	],
