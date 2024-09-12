@@ -8,7 +8,7 @@ export const enResume: Resume = {
 	locationLink: "https://www.google.com/maps/place/Belém",
 	about: "Web Developer",
 	summary:
-		"A web developer focused on creating innovative and functional solutions, with an emphasis on Next.js, React, TypeScript, and Tailwind CSS. My interests lie in developing projects that involve modern technologies and efficient integrations, both on the frontend and backend. I have experience leading teams in mobile and web projects, with a passion for exploring new technological approaches such as API integration, bot development, and building interactive systems for different platforms. I am constantly learning and seeking new opportunities to apply my expertise in software development, particularly in smart cities, automation, and process optimization projects",
+		"Web developer focused on functional solutions, specializing in Next.js, React, TypeScript, and Tailwind CSS. Experienced in leading web and mobile projects, with an interest in APIs, bots, and interactive systems. Seeking opportunities in smart cities and automation",
 	avatarUrl: "https://github.com/dcalliari.png",
 	personalWebsiteUrl: "https://dcalliari.github.io",
 	topics: {

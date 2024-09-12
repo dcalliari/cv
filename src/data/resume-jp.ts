@@ -8,7 +8,7 @@ export const jpResume: Resume = {
 	locationLink: "https://www.google.com/maps/place/Belém",
 	about: "ウェブ開発者",
 	summary:
-		"Next.js、React、TypeScript、Tailwind CSSを中心に、革新的で機能的なソリューションを提供することに注力しているウェブ開発者です。フロントエンドおよびバックエンドの両方で、最新の技術と効率的な統合を伴うプロジェクトに取り組むことに興味があります。モバイルおよびウェブプロジェクトにおけるチームリーダーとしての経験があり、APIの統合、ボットの開発、さまざまなプラットフォーム向けのインタラクティブなシステムの構築など、新しい技術アプローチを探求することに情熱を持っています。常に学び続けており、特にスマートシティ、オートメーション、プロセスの最適化に関するプロジェクトで、ソフトウェア開発の専門知識を活かせる新しい機会を模索しています",
+		"機能的なソリューションに焦点を当てたWeb開発者で、Next.js、React、TypeScript、およびTailwind CSSを専門としています。Webやモバイルプロジェクトのリーダー経験があり、API、ボット、インタラクティブシステムに興味があります。スマートシティや自動化における機会を模索しています",
 	avatarUrl: "https://github.com/dcalliari.png",
 	personalWebsiteUrl: "https://dcalliari.github.io",
 	topics: {
