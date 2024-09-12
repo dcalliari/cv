@@ -57,7 +57,7 @@ export const enResume: Resume = {
 		{
 			company: "Public Defender's Office",
 			link: "https://defensoria.pa.def.br/",
-			badges: ["Internship"],
+			badges: ["Volunteer"],
 			title: "Frontend Web Developer",
 			start: "2024",
 			end: "2024",
@@ -87,7 +87,7 @@ export const enResume: Resume = {
 		{
 			company: "LCA - Applied Computing Lab",
 			link: "https://www.linkedin.com/company/lca-ufra/",
-			badges: ["Internship"],
+			badges: ["Volunteer"],
 			title: "Mobile Developer/Designer",
 			start: "2018",
 			end: "2020",

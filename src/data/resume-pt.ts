@@ -57,7 +57,7 @@ export const ptResume: Resume = {
 		{
 			company: "Defensoria Pública do Estado",
 			link: "https://defensoria.pa.def.br/",
-			badges: ["Estágio"],
+			badges: ["Voluntário"],
 			title: "Desenvolvedor Web Frontend",
 			start: "2024",
 			end: "2024",
@@ -87,7 +87,7 @@ export const ptResume: Resume = {
 		{
 			company: "LCA - Laboratório de Computação Aplicada",
 			link: "https://www.linkedin.com/company/lca-ufra/",
-			badges: ["Estágio"],
+			badges: ["Voluntário"],
 			title: "Desenvolvedor Mobile/Designer",
 			start: "2018",
 			end: "2020",

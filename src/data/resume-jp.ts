@@ -57,7 +57,7 @@ export const jpResume: Resume = {
 		{
 			company: "公的法律扶助事務所",
 			link: "https://defensoria.pa.def.br/",
-			badges: ["インターンシップ"],
+			badges: ["ボランティア"],
 			title: "ウェブフロントエンド開発者",
 			start: "2024",
 			end: "2024",
@@ -87,7 +87,7 @@ export const jpResume: Resume = {
 		{
 			company: "LCA ー 応用コンピューティング研究室",
 			link: "https://www.linkedin.com/company/lca-ufra/",
-			badges: ["インターンシップ"],
+			badges: ["ボランティア"],
 			title: "モバイル開発者/デザイナー",
 			start: "2018",
 			end: "2020",
