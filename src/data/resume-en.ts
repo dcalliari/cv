@@ -8,7 +8,7 @@ export const enResume: Resume = {
 	locationLink: "https://www.google.com/maps/place/Belém",
 	about: "Web Developer",
 	summary:
-		"Passionate developer, problem solver, and lifelong learner. Dedicated to leveraging technology to create practical solutions. Enthusiastic about coding, innovation, and teamwork. Seeking new challenges and opportunities in the world of software development",
+		"A web developer focused on creating innovative and functional solutions, with an emphasis on Next.js, React, TypeScript, and Tailwind CSS. My interests lie in developing projects that involve modern technologies and efficient integrations, both on the frontend and backend. I have experience leading teams in mobile and web projects, with a passion for exploring new technological approaches such as API integration, bot development, and building interactive systems for different platforms. I am constantly learning and seeking new opportunities to apply my expertise in software development, particularly in smart cities, automation, and process optimization projects",
 	avatarUrl: "https://github.com/dcalliari.png",
 	personalWebsiteUrl: "https://dcalliari.github.io",
 	topics: {

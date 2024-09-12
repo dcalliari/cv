@@ -8,7 +8,7 @@ export const ptResume: Resume = {
 	locationLink: "https://www.google.com/maps/place/Belém",
 	about: "Desenvolvedor Web",
 	summary:
-		"Desenvolvedor impetuoso, solucionador de problemas e constante aprendiz. Comprometido em usar tecnologia para criar soluções práticas. Entusiasmado por programação, inovação e trabalho em equipe. Buscando novos desafios e oportunidades no campo do desenvolvimento de software",
+		"Um desenvolvedor web focado em criar soluções inovadoras e funcionais, com ênfase em Next.js, React, TypeScript e Tailwind CSS. Meu interesse está em desenvolver projetos que envolvam tecnologias modernas e integrações eficientes, tanto no frontend quanto no backend. Tenho experiência liderando equipes em projetos mobile e web, além de uma paixão por explorar novas abordagens tecnológicas, como o uso de APIs, desenvolvimento de bots, e criação de sistemas interativos para diferentes plataformas. Estou em constante aprendizado e buscando novas oportunidades para aplicar minha expertise em desenvolvimento de software, especialmente em projetos de cidades inteligentes, automação e otimização de processos",
 	avatarUrl: "https://github.com/dcalliari.png",
 	personalWebsiteUrl: "https://dcalliari.github.io",
 	topics: {
