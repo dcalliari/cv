@@ -97,16 +97,58 @@ export const enResume: Resume = {
 	],
 	skills: [
 		"Next.js",
-		"Python",
-		"TypeScript",
-		"JavaScript",
+		"Django",
 		"Flutter",
-		"Firebase",
+		"TypeScript",
+		"Python",
+		"Tailwind CSS",
 		"React Native",
+		"JavaScript",
+		"Firebase",
 		"Adobe Xd",
 		"PostgreSQL",
+		"HTML/CSS",
+		"SQLAlchemy",
+		"Bootstrap",
 	],
 	projects: [
+		{
+			title: "Veloz CRUD Clinic",
+			techStack: [
+				"Personal Project",
+				"Django",
+				"Python",
+				"Bootstrap",
+				"SQLite",
+				"PostgreSQL",
+			],
+			description:
+				"Web application for managing a clinic, with a CRUD system for patients, doctors, appointments, and transactions with a simple and responsive design",
+			link: {
+				label: "github.com/dcalliari/django-veloz",
+				href: "https://github.com/dcalliari/django-veloz",
+			},
+		},
+		{
+			title: "Quiz Engine",
+			techStack: ["Personal Project", "Next.js", "JavaScript", "SCSS"],
+			description:
+				"Web application for creating and playing quizzes of different types, with a simple and responsive design",
+			link: {
+				label: "quiz-engine-siphox-health.vercel.app/",
+				href: "https://quiz-engine-siphox-health.vercel.app/",
+			},
+		},
+		{
+			title: "Mock Banking App",
+			techStack: ["Side Project", "Flutter", "Dart", "Figma"],
+			description:
+				"Mobile application that simulates a banking app, with a login screen, a home screen with a list of transactions, and a working currency converter",
+			link: {
+				label: "github.com/dcalliari/mobile_coding_banking_app",
+				href: "https://github.com/dcalliari/mobile_coding_banking_app",
+			},
+		},
 		{
 			title: "Calliari's Artigiano",
 			techStack: [
@@ -123,6 +165,23 @@ export const enResume: Resume = {
 			link: {
 				label: "artigiano.vercel.app",
 				href: "https://artigiano.vercel.app/",
+			},
+		},
+		{
+			title: "Project Oshiro",
+			techStack: [
+				"Side Project",
+				"Flutter",
+				"Dart",
+				"Adobe Xd",
+				"FlutterFire",
+				"Firebase",
+			],
+			description:
+				"Android application for browsing and playing audio files from language learning textbook collections that includes several control buttons to facilitate user interaction",
+			link: {
+				label: "github.com/dcalliari/oshiro_flutter_project",
+				href: "https://github.com/dcalliari/oshiro_flutter_project",
 			},
 		},
 		{
@@ -176,23 +235,6 @@ export const enResume: Resume = {
 			link: {
 				label: "github.com/AmadorZcv/salvapaixao",
 				href: "https://github.com/AmadorZcv/salvapaixao",
-			},
-		},
-		{
-			title: "Project Oshiro",
-			techStack: [
-				"Side Project",
-				"Flutter",
-				"Dart",
-				"Adobe Xd",
-				"FlutterFire",
-				"Firebase",
-			],
-			description:
-				"Android application for browsing and playing audio files from language learning textbook collections that includes several control buttons to facilitate user interaction",
-			link: {
-				label: "github.com/dcalliari/oshiro_flutter_project",
-				href: "https://github.com/dcalliari/oshiro_flutter_project",
 			},
 		},
 		{

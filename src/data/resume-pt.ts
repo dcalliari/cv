@@ -97,20 +97,62 @@ export const ptResume: Resume = {
 	],
 	skills: [
 		"Next.js",
-		"Python",
-		"TypeScript",
-		"JavaScript",
+		"Django",
 		"Flutter",
-		"Firebase",
+		"TypeScript",
+		"Python",
+		"Tailwind CSS",
 		"React Native",
+		"JavaScript",
+		"Firebase",
 		"Adobe Xd",
 		"PostgreSQL",
+		"HTML/CSS",
+		"SQLAlchemy",
+		"Bootstrap",
 	],
 	projects: [
 		{
+			title: "Clínica CRUD Veloz",
+			techStack: [
+				"Projeto Paralelo",
+				"Django",
+				"Python",
+				"Bootstrap",
+				"SQLite",
+				"PostgreSQL",
+			],
+			description:
+				"Aplicativo web para gerenciamento de uma clínica, com um sistema CRUD para pacientes, médicos, consultas e transações, com um design simples e responsivo.",
+			link: {
+				label: "github.com/dcalliari/django-veloz",
+				href: "https://github.com/dcalliari/django-veloz",
+			},
+		},
+		{
+			title: "Quiz Engine",
+			techStack: ["Projeto Paralelo", "Next.js", "JavaScript", "SCSS"],
+			description:
+				"Aplicativo web para criar e jogar quizzes de diferentes tipos, com um design simples e responsivo",
+			link: {
+				label: "quiz-engine-siphox-health.vercel.app/",
+				href: "https://quiz-engine-siphox-health.vercel.app/",
+			},
+		},
+		{
+			title: "Mock Banking App",
+			techStack: ["Projeto Paralelo", "Flutter", "Dart", "Figma"],
+			description:
+				"Aplicação móvel que simula um app bancário, com uma tela de login, uma tela inicial com uma lista de transações e um conversor de moeda funcional",
+			link: {
+				label: "github.com/dcalliari/mobile_coding_banking_app",
+				href: "https://github.com/dcalliari/mobile_coding_banking_app",
+			},
+		},
+		{
 			title: "Calliari's Artigiano",
 			techStack: [
-				"Side Project",
+				"Projeto Paralelo",
 				"Next.js",
 				"TypeScript",
 				"Shadcn/UI",

@@ -97,16 +97,61 @@ export const jpResume: Resume = {
 	],
 	skills: [
 		"ネクスト・ジェイエス",
-		"パイソン",
-		"タイプスクリプト",
-		"ジャバスクリプト",
+		"ジャンゴ",
 		"フラッター",
-		"ファイアベース",
+		"タイプスクリプト",
+		"パイソン",
+		"テイルウィンドCSS",
 		"リアクトネイティブ",
+		"ジャバスクリプト",
+		"ファイアベース",
 		"アドビXD",
 		"ポストグレSQL",
+		"HTML/CSS",
 	],
 	projects: [
+		{
+			title: "クリニック CRUD Veloz",
+			techStack: [
+				"サイドプロジェクト",
+				"ジャンゴ",
+				"パイソン",
+				"ブートストラップ",
+				"SQLite",
+				"ポストグレSQL",
+			],
+			description:
+				"シンプルでレスポンシブなデザインを備えた、患者、医師、予約、取引のCRUDシステムを持つクリニック管理用のウェブアプリケーション",
+			link: {
+				label: "github.com/dcalliari/django-veloz",
+				href: "https://github.com/dcalliari/django-veloz",
+			},
+		},
+		{
+			title: "クイズエンジン",
+			techStack: [
+				"サイドプロジェクト",
+				"ネクスト・ジェイエス",
+				"ジャバスクリプト",
+				"SCSS",
+			],
+			description:
+				"シンプルでレスポンシブなデザインを備えた、さまざまなタイプのクイズを作成してプレイするためのウェブアプリケーション",
+			link: {
+				label: "quiz-engine-siphox-health.vercel.app/",
+				href: "https://quiz-engine-siphox-health.vercel.app/",
+			},
+		},
+		{
+			title: "モックバンキングアプリ",
+			techStack: ["サイドプロジェクト", "フラッター", "ダート", "フィグマ"],
+			description:
+				"ログイン画面、トランザクションのリストを含むホーム画面、および動作する通貨コンバーターを備えたバンキングアプリをシミュレートするモバイルアプリケーション",
+			link: {
+				label: "github.com/dcalliari/mobile_coding_banking_app",
+				href: "https://github.com/dcalliari/mobile_coding_banking_app",
+			},
+		},
 		{
 			title: "Calliari's Artigiano",
 			techStack: [
