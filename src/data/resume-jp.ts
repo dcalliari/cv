@@ -55,6 +55,16 @@ export const jpResume: Resume = {
 	],
 	work: [
 		{
+			company: "V3L0Z",
+			link: "https://projeto-v3l0z.github.io/V3L0Z/",
+			badges: ["ボランティア"],
+			title: "ジャンゴ開発者",
+			start: "2024",
+			end: "今",
+			description:
+				"ジャンゴ、パイソン、ブートストラップを使用してUNAMA向けのアプリケーションを開発ます",
+		},
+		{
 			company: "公的法律扶助事務所",
 			link: "https://defensoria.pa.def.br/",
 			badges: ["ボランティア"],
@@ -62,7 +72,7 @@ export const jpResume: Resume = {
 			start: "2024",
 			end: "2024",
 			description:
-				"Next.js、Tailwind CSS と TypeScript を使ってウェブサイトを開発しています",
+				"Next.js、Tailwind CSS と TypeScript を使ってウェブサイトを開発していました",
 		},
 		{
 			company: "NTP Engenharia",
@@ -92,7 +102,7 @@ export const jpResume: Resume = {
 			start: "2018",
 			end: "2020",
 			description:
-				"大学内で複数のAndroid/iOSプロジェクトに参加しながら、フロントエンド開発とUX/UIデザインのスキルを磨いています",
+				"大学内で複数のAndroid/iOSプロジェクトに参加しながら、フロントエンド開発とUX/UIデザインのスキルを磨いていました",
 		},
 	],
 	skills: [

@@ -55,6 +55,16 @@ export const ptResume: Resume = {
 	],
 	work: [
 		{
+			company: "V3L0Z - UNAMA",
+			link: "https://projeto-v3l0z.github.io/V3L0Z/",
+			badges: ["Volunteer"],
+			title: "Django Developer",
+			start: "2024",
+			end: "Present",
+			description:
+				"Desenvolvi sites utilizando Next.js, Tailwind CSS e TypeScript",
+		},
+		{
 			company: "Defensoria Pública do Estado",
 			link: "https://defensoria.pa.def.br/",
 			badges: ["Voluntário"],
@@ -62,7 +72,7 @@ export const ptResume: Resume = {
 			start: "2024",
 			end: "2024",
 			description:
-				"Desenvolvendo sites utilizando Next.js, Tailwind CSS e TypeScript",
+				"Desenvolvi sites utilizando Next.js, Tailwind CSS e TypeScript",
 		},
 		{
 			company: "NTP Engenharia",
