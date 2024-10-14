@@ -60,7 +60,7 @@ export const ptResume: Resume = {
 			badges: ["Volunteer"],
 			title: "Django Developer",
 			start: "2024",
-			end: "Present",
+			end: "Presente",
 			description:
 				"Desenvolvi sites utilizando Next.js, Tailwind CSS e TypeScript",
 		},
