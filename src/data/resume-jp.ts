@@ -55,7 +55,7 @@ export const jpResume: Resume = {
 	],
 	work: [
 		{
-			company: "V3L0Z",
+			company: "V3L0Z・アマゾン大学",
 			link: "https://projeto-v3l0z.github.io/V3L0Z/",
 			badges: ["ボランティア"],
 			title: "ジャンゴ開発者",
