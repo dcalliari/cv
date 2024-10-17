@@ -62,7 +62,7 @@ export const ptResume: Resume = {
 			start: "2024",
 			end: "Presente",
 			description:
-				"Desenvolvi sites utilizando Next.js, Tailwind CSS e TypeScript",
+				"Desenvolvendo soluções para UNAMA usando Django, Python e Bootstrap",
 		},
 		{
 			company: "Defensoria Pública do Estado",
