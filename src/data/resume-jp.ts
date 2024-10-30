@@ -121,7 +121,7 @@ export const jpResume: Resume = {
 	],
 	projects: [
 		{
-			title: "クリニック CRUD Veloz",
+			title: "クリニック CRUD ジャンゴ",
 			techStack: [
 				"サイドプロジェクト",
 				"ジャンゴ",
