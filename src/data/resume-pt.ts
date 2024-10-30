@@ -123,7 +123,7 @@ export const ptResume: Resume = {
 	],
 	projects: [
 		{
-			title: "Clínica CRUD Veloz",
+			title: "Clínica CRUD Django",
 			techStack: [
 				"Projeto Paralelo",
 				"Django",
