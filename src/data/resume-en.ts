@@ -123,7 +123,7 @@ export const enResume: Resume = {
 	],
 	projects: [
 		{
-			title: "Veloz CRUD Clinic",
+			title: "Django CRUD Clinic",
 			techStack: [
 				"Personal Project",
 				"Django",
