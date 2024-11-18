@@ -90,7 +90,7 @@ export const enResume: Resume = {
 			badges: ["Remote"],
 			title: "Lead Mobile Developer",
 			start: "2019",
-			end: "2020",
+			end: "2022",
 			description:
 				"Created a budgetary system for Android and iOS using React Native, led and managed a development team",
 		},

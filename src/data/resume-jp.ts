@@ -90,7 +90,7 @@ export const jpResume: Resume = {
 			badges: ["リモート"],
 			title: "リードモバイル開発者",
 			start: "2019",
-			end: "2020",
+			end: "2022",
 			description:
 				"React Native を使用して Android および iOS の予算システムを作成し、開発チームを主導および管理しました",
 		},

@@ -90,7 +90,7 @@ export const ptResume: Resume = {
 			badges: ["Remoto"],
 			title: "Desenvolvedor Mobile Líder",
 			start: "2019",
-			end: "2020",
+			end: "2022",
 			description:
 				"Criei um sistema orçamentário para Android e iOS usando React Native, liderei e gerenciei uma equipe de desenvolvimento",
 		},
