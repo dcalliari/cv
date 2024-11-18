@@ -6,9 +6,9 @@ export const jpResume: Resume = {
 	initials: "DC",
 	location: "ブラジル、パラー州ベレン",
 	locationLink: "https://www.google.com/maps/place/Belém",
-	about: "ウェブ開発者",
+	about: "開発者",
 	summary:
-		"機能的なソリューションに焦点を当てたWeb開発者で、Next.js、React、TypeScript、およびTailwind CSSを専門としています。Webやモバイルプロジェクトのリーダー経験があり、API、ボット、インタラクティブシステムに興味があります。スマートシティや自動化における機会を模索しています",
+		"機能的なソリューションに焦点を当てた開発者で、TypeScript ノード、およびReactを専門としています。Webやモバイルプロジェクトのリーダー経験があり、API、ボット、インタラクティブシステムに興味があります。スマートシティや自動化における機会を模索しています",
 	avatarUrl: "https://github.com/dcalliari.png",
 	personalWebsiteUrl: "https://dcalliari.github.io",
 	topics: {
@@ -54,6 +54,16 @@ export const jpResume: Resume = {
 		},
 	],
 	work: [
+		{
+			company: "Tecsomobi",
+			link: "https://www.tecsomobi.com.br/",
+			badges: ["Hybrid"],
+			title: "ソフトウェアエンジニア",
+			start: "2024",
+			end: "今",
+			description:
+				"タイスク、リアクト、ノード、ポスグレ、AWSを使用して都市モビリティとチケットソフトウェアを開発",
+		},
 		{
 			company: "V3L0Z・アマゾン大学",
 			link: "https://projeto-v3l0z.github.io/V3L0Z/",
@@ -106,18 +116,16 @@ export const jpResume: Resume = {
 		},
 	],
 	skills: [
-		"ネクスト・ジェイエス",
+		"ネクスト",
+		"ノード",
+		"タイスク",
+		"ポスグレ",
+		"パイソン",
 		"ジャンゴ",
 		"フラッター",
-		"タイプスクリプト",
-		"パイソン",
-		"テイルウィンドCSS",
-		"リアクトネイティブ",
 		"ジャバスクリプト",
 		"ファイアベース",
-		"アドビXD",
-		"ポストグレSQL",
-		"HTML/CSS",
+		"AWS",
 	],
 	projects: [
 		{

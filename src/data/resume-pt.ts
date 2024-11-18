@@ -6,9 +6,9 @@ export const ptResume: Resume = {
 	initials: "DC",
 	location: "Belém, Pará, Brasil",
 	locationLink: "https://www.google.com/maps/place/Belém",
-	about: "Desenvolvedor Web",
+	about: "Engenheiro de Software",
 	summary:
-		"Desenvolvedor web com foco em soluções funcionais, especializado em Next.js, React, TypeScript e Tailwind CSS. Experiência em liderar projetos web e mobile, com interesse em APIs, bots e sistemas interativos. Em busca de oportunidades em cidades inteligentes e automação",
+		"Engenheiro de software com foco em soluções funcionais, especializado em TypeScript, Node e React. Experiência em liderar projetos web e mobile, com interesse em APIs, bots e sistemas interativos. Em busca de oportunidades em cidades inteligentes e automação",
 	avatarUrl: "https://github.com/dcalliari.png",
 	personalWebsiteUrl: "https://dcalliari.github.io",
 	topics: {
@@ -55,10 +55,20 @@ export const ptResume: Resume = {
 	],
 	work: [
 		{
+			company: "Tecsomobi",
+			link: "https://www.tecsomobi.com.br/",
+			badges: ["Híbrido"],
+			title: "Engenheiro de Software",
+			start: "2024",
+			end: "Presente",
+			description:
+				"Desenvolvendo um software de mobilidade urbana e bilhetagem com TypeScript, React, Node, PostgreSQL e AWS",
+		},
+		{
 			company: "V3L0Z - UNAMA",
 			link: "https://projeto-v3l0z.github.io/V3L0Z/",
-			badges: ["Volunteer"],
-			title: "Django Developer",
+			badges: ["Voluntário"],
+			title: "Desenvolvedor Django",
 			start: "2024",
 			end: "Presente",
 			description:
@@ -107,19 +117,15 @@ export const ptResume: Resume = {
 	],
 	skills: [
 		"Next.js",
+		"Node.js",
+		"TypeScript",
+		"PostgreSQL",
+		"Python",
 		"Django",
 		"Flutter",
-		"TypeScript",
-		"Python",
-		"Tailwind CSS",
-		"React Native",
 		"JavaScript",
 		"Firebase",
-		"Adobe Xd",
-		"PostgreSQL",
-		"HTML/CSS",
-		"SQLAlchemy",
-		"Bootstrap",
+		"AWS",
 	],
 	projects: [
 		{

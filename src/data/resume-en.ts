@@ -6,9 +6,9 @@ export const enResume: Resume = {
 	initials: "DC",
 	location: "Belém, State of Pará, Brazil",
 	locationLink: "https://www.google.com/maps/place/Belém",
-	about: "Web Developer",
+	about: "Software Engineer",
 	summary:
-		"Web developer focused on functional solutions, specializing in Next.js, React, TypeScript, and Tailwind CSS. Experienced in leading web and mobile projects, with an interest in APIs, bots, and interactive systems. Seeking opportunities in smart cities and automation",
+		"Software engineer focused on functional solutions, specializing in TypeScript, Node and React. Experienced in leading web and mobile projects, with an interest in APIs, bots, and interactive systems. Seeking opportunities in smart cities and automation",
 	avatarUrl: "https://github.com/dcalliari.png",
 	personalWebsiteUrl: "https://dcalliari.github.io",
 	topics: {
@@ -54,6 +54,16 @@ export const enResume: Resume = {
 		},
 	],
 	work: [
+		{
+			company: "Tecsomobi",
+			link: "https://www.tecsomobi.com.br/",
+			badges: ["Hybrid"],
+			title: "Software Engineer",
+			start: "2024",
+			end: "Present",
+			description:
+				"Developing an urban mobility and ticketing software using TypeScript, React, Node, PostgreSQL and AWS",
+		},
 		{
 			company: "V3L0Z - UNAMA",
 			link: "https://projeto-v3l0z.github.io/V3L0Z/",
@@ -107,19 +117,15 @@ export const enResume: Resume = {
 	],
 	skills: [
 		"Next.js",
+		"Node.js",
+		"TypeScript",
+		"PostgreSQL",
+		"Python",
 		"Django",
 		"Flutter",
-		"TypeScript",
-		"Python",
-		"Tailwind CSS",
-		"React Native",
 		"JavaScript",
 		"Firebase",
-		"Adobe Xd",
-		"PostgreSQL",
-		"HTML/CSS",
-		"SQLAlchemy",
-		"Bootstrap",
+		"AWS",
 	],
 	projects: [
 		{
