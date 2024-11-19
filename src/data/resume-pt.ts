@@ -50,7 +50,7 @@ export const ptResume: Resume = {
 			school: "Universidade Federal Rural da Amazônia",
 			degree: "Bacharelado em Sistemas de Informação, transferido",
 			start: "2018",
-			end: "2023",
+			end: "2020",
 		},
 	],
 	work: [

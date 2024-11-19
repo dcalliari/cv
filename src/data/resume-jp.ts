@@ -41,7 +41,7 @@ export const jpResume: Resume = {
 	},
 	education: [
 		{
-			school: "アマゾン大学",
+			school: "アマゾニア大学",
 			degree: "コンピュータサイエンス学士号",
 			start: "2024",
 			end: "今",
@@ -50,7 +50,7 @@ export const jpResume: Resume = {
 			school: "アマゾニア連邦農村大学",
 			degree: "情報システム学士号、転校",
 			start: "2018",
-			end: "2023",
+			end: "2020",
 		},
 	],
 	work: [
