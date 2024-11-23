@@ -5,9 +5,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "Daniel Calliari | Web Developer",
+	title: "Daniel Calliari | Software Developer",
 	description:
-		"Desenvolvedor impetuoso, solucionador de problemas e constante aprendiz. Comprometido em usar tecnologia para criar soluções práticas. Entusiasmado por programação, inovação e trabalho em equipe. Buscando novos desafios e oportunidades no campo do desenvolvimento de software",
+		"Software engineer focused on functional solutions, specializing in TypeScript, Node and React. Experienced in leading web and mobile projects, with an interest in APIs, bots, and interactive systems. Seeking opportunities in smart cities and automation",
 };
 
 export default function RootLayout({
