@@ -68,11 +68,11 @@ export const jpResume: Resume = {
 			company: "V3L0Z・アマゾン大学",
 			link: "https://projeto-v3l0z.github.io/V3L0Z/",
 			badges: ["ボランティア"],
-			title: "ジャンゴ開発者",
+			title: "ソフトウェア開発者",
 			start: "2024",
 			end: "今",
 			description:
-				"ジャンゴ、パイソン、ブートストラップを使用してUNAMA向けのアプリケーションを開発ます",
+				"リアクト、ジャンゴ、ブートストラップを使用してUNAMA向けのアプリケーションを開発ます",
 		},
 		{
 			company: "公的法律扶助事務所",

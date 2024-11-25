@@ -68,11 +68,11 @@ export const enResume: Resume = {
 			company: "V3L0Z - UNAMA",
 			link: "https://projeto-v3l0z.github.io/V3L0Z/",
 			badges: ["Volunteer"],
-			title: "Django Developer",
+			title: "Software Developer",
 			start: "2024",
 			end: "Present",
 			description:
-				"Developing solutions for UNAMA using Django, Python and Bootstrap",
+				"Developing solutions for UNAMA using React, Django and Bootstrap",
 		},
 		{
 			company: "Public Defender's Office",

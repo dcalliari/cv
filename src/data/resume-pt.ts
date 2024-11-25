@@ -68,11 +68,11 @@ export const ptResume: Resume = {
 			company: "V3L0Z - UNAMA",
 			link: "https://projeto-v3l0z.github.io/V3L0Z/",
 			badges: ["Voluntário"],
-			title: "Desenvolvedor Django",
+			title: "Desenvolvedor de Software",
 			start: "2024",
 			end: "Presente",
 			description:
-				"Desenvolvendo soluções para UNAMA usando Django, Python e Bootstrap",
+				"Desenvolvendo soluções para UNAMA usando React, Django e Bootstrap",
 		},
 		{
 			company: "Defensoria Pública do Estado",
@@ -88,7 +88,7 @@ export const ptResume: Resume = {
 			company: "NTP Engenharia",
 			link: "https://maps.app.goo.gl/5zzABdNKyqhyS3Rz7",
 			badges: ["Remoto"],
-			title: "Desenvolvedor Mobile Líder",
+			title: "Líder de Desenvolvedor Mobile",
 			start: "2019",
 			end: "2022",
 			description:
