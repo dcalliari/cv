@@ -24,7 +24,7 @@ export const jpResume: Resume = {
 		japanese: "日本語",
 	},
 	contact: {
-		email: "dbcalliari@gmail.com",
+		email: "daniel@calliari.dev",
 		tel: "+55 91 9 8209-8271",
 		social: [
 			{
@@ -50,7 +50,7 @@ export const jpResume: Resume = {
 			school: "アマゾニア連邦農村大学",
 			degree: "情報システム学士号、転校",
 			start: "2018",
-			end: "2020",
+			end: "2022",
 		},
 	],
 	work: [
