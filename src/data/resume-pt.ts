@@ -24,7 +24,7 @@ export const ptResume: Resume = {
 		japanese: "Japonês",
 	},
 	contact: {
-		email: "dbcalliari@gmail.com",
+		email: "daniel@calliari.dev",
 		tel: "+55 91 9 8209-8271",
 		social: [
 			{
@@ -50,7 +50,7 @@ export const ptResume: Resume = {
 			school: "Universidade Federal Rural da Amazônia",
 			degree: "Bacharelado em Sistemas de Informação, transferido",
 			start: "2018",
-			end: "2020",
+			end: "2022",
 		},
 	],
 	work: [
