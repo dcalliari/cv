@@ -59,7 +59,7 @@ export const jpResume: Resume = {
 			link: "https://www.tecsomobi.com.br/",
 			badges: ["ハイブリッド"],
 			title: "ソフトウェアエンジニア",
-			start: "2024",
+			start: "11/2024",
 			end: "今",
 			description:
 				"タイスク、リアクト、ノード、ポスグレ、AWSを使用して都市モビリティとチケットソフトウェアを開発",
@@ -69,7 +69,7 @@ export const jpResume: Resume = {
 			link: "https://projeto-v3l0z.github.io/V3L0Z/",
 			badges: ["ボランティア"],
 			title: "ソフトウェア開発者",
-			start: "2024",
+			start: "9/2024",
 			end: "今",
 			description:
 				"リアクト、ジャンゴ、ブートストラップを使用してUNAMA向けのアプリケーションを開発ます",
@@ -79,8 +79,8 @@ export const jpResume: Resume = {
 			link: "https://defensoria.pa.def.br/",
 			badges: ["ボランティア"],
 			title: "ウェブフロントエンド開発者",
-			start: "2024",
-			end: "2024",
+			start: "10/2023",
+			end: "8/2024",
 			description:
 				"Next.js、Tailwind CSS と TypeScript を使ってウェブサイトを開発していました",
 		},
@@ -89,8 +89,8 @@ export const jpResume: Resume = {
 			link: "https://maps.app.goo.gl/5zzABdNKyqhyS3Rz7",
 			badges: ["リモート"],
 			title: "リードモバイル開発者",
-			start: "2019",
-			end: "2022",
+			start: "7/2019",
+			end: "3/2022",
 			description:
 				"React Native を使用して Android および iOS の予算システムを作成し、開発チームを主導および管理しました",
 		},
@@ -99,8 +99,8 @@ export const jpResume: Resume = {
 			link: "https://stic.ufra.edu.br",
 			badges: ["インターンシップ"],
 			title: "フルスタックウェブ開発者",
-			start: "2019",
-			end: "2020",
+			start: "10/2019",
+			end: "3/2020",
 			description:
 				"CentOS 上でサーバーを作成および保守し、Ufra 用に HTML/CSS および JavaScript で Web サイトを開発し、教授に IT 支援を提供しました",
 		},
@@ -109,8 +109,8 @@ export const jpResume: Resume = {
 			link: "https://www.linkedin.com/company/lca-ufra/",
 			badges: ["ボランティア"],
 			title: "モバイル開発者/デザイナー",
-			start: "2018",
-			end: "2020",
+			start: "4/2018",
+			end: "3/2020",
 			description:
 				"大学内で複数のAndroid/iOSプロジェクトに参加しながら、フロントエンド開発とUX/UIデザインのスキルを磨いていました",
 		},

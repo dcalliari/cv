@@ -59,7 +59,7 @@ export const ptResume: Resume = {
 			link: "https://www.tecsomobi.com.br/",
 			badges: ["Híbrido"],
 			title: "Engenheiro de Software",
-			start: "2024",
+			start: "11/2024",
 			end: "Presente",
 			description:
 				"Desenvolvendo um software de mobilidade urbana e bilhetagem com TypeScript, React, Node, PostgreSQL e AWS",
@@ -69,7 +69,7 @@ export const ptResume: Resume = {
 			link: "https://projeto-v3l0z.github.io/V3L0Z/",
 			badges: ["Voluntário"],
 			title: "Desenvolvedor de Software",
-			start: "2024",
+			start: "9/2024",
 			end: "Presente",
 			description:
 				"Desenvolvendo soluções para UNAMA usando React, Django e Bootstrap",
@@ -79,8 +79,8 @@ export const ptResume: Resume = {
 			link: "https://defensoria.pa.def.br/",
 			badges: ["Voluntário"],
 			title: "Desenvolvedor Web Frontend",
-			start: "2024",
-			end: "2024",
+			start: "10/2023",
+			end: "8/2024",
 			description:
 				"Desenvolvi sites utilizando Next.js, Tailwind CSS e TypeScript",
 		},
@@ -89,8 +89,8 @@ export const ptResume: Resume = {
 			link: "https://maps.app.goo.gl/5zzABdNKyqhyS3Rz7",
 			badges: ["Remoto"],
 			title: "Líder de Desenvolvedor Mobile",
-			start: "2019",
-			end: "2022",
+			start: "7/2019",
+			end: "3/2022",
 			description:
 				"Criei um sistema orçamentário para Android e iOS usando React Native, liderei e gerenciei uma equipe de desenvolvimento",
 		},
@@ -99,8 +99,8 @@ export const ptResume: Resume = {
 			link: "https://stic.ufra.edu.br",
 			badges: ["Estágio"],
 			title: "Desenvolvedor Web Full Stack",
-			start: "2019",
-			end: "2020",
+			start: "10/2019",
+			end: "3/2020",
 			description:
 				"Criei e mantive servidores no CentOS, desenvolvi sites em HTML/CSS e JavaScript para a Ufra e prestei assistência de TI a professores",
 		},
@@ -109,8 +109,8 @@ export const ptResume: Resume = {
 			link: "https://www.linkedin.com/company/lca-ufra/",
 			badges: ["Voluntário"],
 			title: "Desenvolvedor Mobile/Designer",
-			start: "2018",
-			end: "2020",
+			start: "4/2018",
+			end: "3/2020",
 			description:
 				"Participei de diversos projetos Android/iOS no campus, desenvolvendo habilidades em Desenvolvimento Frontend e Design UX/UI",
 		},
