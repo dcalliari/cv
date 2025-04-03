@@ -47,7 +47,7 @@ export const enResume: Resume = {
 			end: "Current",
 		},
 		{
-			school: "Federal Rural University of Amazonia",
+			school: "Federal Rural University of Amazon",
 			degree: "Bachelor's Degree in Information Systems, transferred",
 			start: "2018",
 			end: "2022",
