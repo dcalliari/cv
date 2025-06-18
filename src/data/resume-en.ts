@@ -70,7 +70,7 @@ export const enResume: Resume = {
 			badges: ["Volunteer"],
 			title: "Software Developer",
 			start: "9/2024",
-			end: "Presente",
+			end: "6/2025",
 			description:
 				"Developing solutions for UNAMA using React, Django and Bootstrap",
 		},
@@ -90,7 +90,7 @@ export const enResume: Resume = {
 			badges: ["Remote"],
 			title: "Lead Mobile Developer",
 			start: "7/2019",
-			end: "3/2022",
+			end: "3/2020",
 			description:
 				"Created a budgetary system for Android and iOS using React Native, led and managed a development team",
 		},
