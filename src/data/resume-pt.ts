@@ -70,7 +70,7 @@ export const ptResume: Resume = {
 			badges: ["Voluntário"],
 			title: "Desenvolvedor de Software",
 			start: "9/2024",
-			end: "Presente",
+			end: "6/2025",
 			description:
 				"Desenvolvendo soluções para UNAMA usando React, Django e Bootstrap",
 		},
@@ -90,7 +90,7 @@ export const ptResume: Resume = {
 			badges: ["Remoto"],
 			title: "Líder de Desenvolvedor Mobile",
 			start: "7/2019",
-			end: "3/2022",
+			end: "3/2020",
 			description:
 				"Criei um sistema orçamentário para Android e iOS usando React Native, liderei e gerenciei uma equipe de desenvolvimento",
 		},
