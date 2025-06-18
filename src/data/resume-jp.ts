@@ -70,7 +70,7 @@ export const jpResume: Resume = {
 			badges: ["ボランティア"],
 			title: "ソフトウェア開発者",
 			start: "9/2024",
-			end: "今",
+			end: "6/2025",
 			description:
 				"リアクト、ジャンゴ、ブートストラップを使用してUNAMA向けのアプリケーションを開発ます",
 		},
@@ -90,7 +90,7 @@ export const jpResume: Resume = {
 			badges: ["リモート"],
 			title: "リードモバイル開発者",
 			start: "7/2019",
-			end: "3/2022",
+			end: "3/2020",
 			description:
 				"React Native を使用して Android および iOS の予算システムを作成し、開発チームを主導および管理しました",
 		},
