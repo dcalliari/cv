@@ -55,7 +55,7 @@ export const jpResume: Resume = {
 	],
 	work: [
 		{
-			company: "Tecsomobi",
+			company: "Autopass",
 			link: "https://www.tecsomobi.com.br/",
 			badges: ["ハイブリッド"],
 			title: "ソフトウェアエンジニア",

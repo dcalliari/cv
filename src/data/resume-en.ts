@@ -55,7 +55,7 @@ export const enResume: Resume = {
 	],
 	work: [
 		{
-			company: "Tecsomobi",
+			company: "Autopass",
 			link: "https://www.tecsomobi.com.br/",
 			badges: ["Hybrid"],
 			title: "Software Engineer",

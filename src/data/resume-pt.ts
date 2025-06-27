@@ -55,7 +55,7 @@ export const ptResume: Resume = {
 	],
 	work: [
 		{
-			company: "Tecsomobi",
+			company: "Autopass",
 			link: "https://www.tecsomobi.com.br/",
 			badges: ["Híbrido"],
 			title: "Engenheiro de Software",
