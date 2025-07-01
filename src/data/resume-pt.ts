@@ -44,7 +44,7 @@ export const ptResume: Resume = {
 			school: "Universidade da Amazônia",
 			degree: "Bacharelado em Ciência da Computação",
 			start: "2024",
-			end: "Presente",
+			end: "2025",
 		},
 		{
 			school: "Universidade Federal Rural da Amazônia",
@@ -60,7 +60,7 @@ export const ptResume: Resume = {
 			badges: ["Híbrido"],
 			title: "Engenheiro de Software",
 			start: "11/2024",
-			end: "Presente",
+			end: "7/2025",
 			description:
 				"Desenvolvendo um software de mobilidade urbana e bilhetagem com TypeScript, React, Node, PostgreSQL e AWS",
 		},

@@ -44,7 +44,7 @@ export const jpResume: Resume = {
 			school: "アマゾニア大学",
 			degree: "コンピュータサイエンス学士号",
 			start: "2024",
-			end: "今",
+			end: "2025",
 		},
 		{
 			school: "アマゾニア連邦農村大学",
@@ -60,7 +60,7 @@ export const jpResume: Resume = {
 			badges: ["ハイブリッド"],
 			title: "ソフトウェアエンジニア",
 			start: "11/2024",
-			end: "今",
+			end: "7/2025",
 			description:
 				"タイスク、リアクト、ノード、ポスグレ、AWSを使用して都市モビリティとチケットソフトウェアを開発",
 		},

@@ -44,7 +44,7 @@ export const enResume: Resume = {
 			school: "University of Amazon",
 			degree: "Bachelor's Degree in Computer Science",
 			start: "2024",
-			end: "Current",
+			end: "2025",
 		},
 		{
 			school: "Federal Rural University of Amazon",
@@ -60,7 +60,7 @@ export const enResume: Resume = {
 			badges: ["Hybrid"],
 			title: "Software Engineer",
 			start: "11/2024",
-			end: "Presente",
+			end: "7/2025",
 			description:
 				"Developing an urban mobility and ticketing software using TypeScript, React, Node, PostgreSQL and AWS",
 		},
