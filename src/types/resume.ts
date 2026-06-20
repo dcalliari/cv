@@ -11,6 +11,11 @@ interface Education {
 	end: string;
 }
 
+interface WorkHighlight {
+	name: string;
+	description: string;
+}
+
 interface WorkExperience {
 	company: string;
 	link: string;
@@ -18,7 +23,13 @@ interface WorkExperience {
 	title: string;
 	start: string;
 	end: string;
-	description: string;
+	description?: string;
+	highlights?: WorkHighlight[];
+}
+
+interface LanguageProficiency {
+	language: string;
+	level: string;
 }
 
 interface Project {
@@ -51,6 +62,7 @@ export interface Resume {
 		education: string;
 		skills: string;
 		projects: string;
+		languages: string;
 	};
 	languages: {
 		english: string;
@@ -65,5 +77,6 @@ export interface Resume {
 	education: Educations;
 	work: WorkExperiences;
 	skills: string[];
+	languageProficiency: LanguageProficiency[];
 	projects: Projects;
 }

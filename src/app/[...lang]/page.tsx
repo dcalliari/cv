@@ -134,7 +134,7 @@ export default function Page({ params }: { params: { lang: string } }) {
 						{RESUME_DATA.topics.workExperience}
 					</h2>
 					{RESUME_DATA.work.map((work) => (
-						<Card key={work.company}>
+						<Card key={`${work.company}-${work.start}`}>
 							<CardHeader>
 								<div className="flex items-center justify-between gap-x-2 text-base">
 									<h3 className="inline-flex items-center justify-center gap-x-1 font-semibold leading-none">
@@ -160,7 +160,19 @@ export default function Page({ params }: { params: { lang: string } }) {
 								<h4 className="font-mono text-sm leading-none">{work.title}</h4>
 							</CardHeader>
 							<CardContent className="mt-2 text-xs">
-								{work.description}
+								{work.highlights ? (
+									<ul className="list-disc space-y-2 pl-4">
+										{work.highlights.map((highlight) => (
+											<li key={highlight.name}>
+												<span className="font-semibold">{highlight.name}</span>
+												{": "}
+												{highlight.description}
+											</li>
+										))}
+									</ul>
+								) : (
+									work.description
+								)}
 							</CardContent>
 						</Card>
 					))}
@@ -188,6 +200,20 @@ export default function Page({ params }: { params: { lang: string } }) {
 					<div className="flex flex-wrap gap-1">
 						{RESUME_DATA.skills.map((skill) => (
 							<Badge key={skill}>{skill}</Badge>
+						))}
+					</div>
+				</Section>
+				<Section>
+					<h2 className="text-xl font-bold">{RESUME_DATA.topics.languages}</h2>
+					<div className="space-y-2">
+						{RESUME_DATA.languageProficiency.map((entry) => (
+							<div
+								key={entry.language}
+								className="flex flex-wrap items-baseline gap-x-2 font-mono text-sm"
+							>
+								<span className="font-semibold">{entry.language}</span>
+								<span className="text-muted-foreground">{entry.level}</span>
+							</div>
 						))}
 					</div>
 				</Section>
